@@ -1,3 +1,3 @@
 # Wiki
 
-check wiki on the sidebar!
+check [wiki](https://github.com/WorldOfTanksMods/0--Wiki--0/wiki)!
