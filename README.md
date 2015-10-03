@@ -1,3 +1,1 @@
-# Wiki
-
-check [wiki](https://github.com/WorldOfTanksMods/0--Wiki--0/wiki)!
+### [wiki](https://github.com/WorldOfTanksMods/0--Wiki--0/wiki)!
